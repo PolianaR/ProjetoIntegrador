@@ -11,6 +11,9 @@
     Área da agricultura     :a1, 2022-06-04, 15d
     Tecnologias  :a2,after a1  , 20d
     Ferramentas  :a3,after a2, 7d
+    section Reuniões
+    Primeira reunião:a1, 2022-05-13, 15d
+    Descrição: Foi mencionado o tema e como ficaria a separação da introdução, desenvolvimento e conclusão do slides do trabalho.
     section Documento
     Pré-projeto     :a1, 2022-05-17, 15d
     Documentação inicial   :a2,after a1  , 20d
